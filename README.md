@@ -1,19 +1,59 @@
+## Yago Jardim
+**Desenvolvedor Backend & Estudante de Engenharia de Software**
 
-## 🚀 Tecnologias & Ferramentas
+Com foco na construção de sistemas robustos, tenho experiência prática em projetar APIs RESTful seguras, orquestrar serviços com Docker e integrar aplicações utilizando mensageria (Kafka/RabbitMQ). Meu objetivo é desenvolver arquiteturas limpas, eficientes e escaláveis.
 
-- **Linguagens:** Python, JavaScript
-- **Frameworks:** FastAPI, Express (Node.js)
-- **Bancos de Dados:** MongoDB, MySQL, Redis
-- **Mensageria & Filas:** Apache Kafka, RabbitMQ
-- **DevOps & Testes:** Docker, Docker Compose, Pytest
-- **Autenticação:** JWT
+- 🎓 Graduando em Engenharia de Software pela Universidade de Vassouras
 
-## 📂 Projetos em Destaque
+---
 
-| Projeto | Descrição | Tecnologias |
+### 💻 Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+</div>
+
+---
+
+### 🏆 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias Principais |
 | :--- | :--- | :--- |
-| [produtos-api-pytest-docker](https://github.com/yagojardimm/produtos-api-pytest-docker) | API REST com cobertura completa de testes | Python, FastAPI, Pytest, Docker |
-| [Redis-API-e-Worker](https://github.com/yagojardimm/Redis-API-e-Worker) | API com processamento assíncrono via workers Redis | Python, Redis, Docker |
-| [backend-node-mysql-mongodb](https://github.com/yagojardimm/backend-node-mysql-mongodb) | Backend Node.js com suporte a MySQL e MongoDB | JavaScript, Express, MySQL, MongoDB |
-| [fastapi-crud-docker](https://github.com/yagojardimm/fastapi-crud-docker) | CRUD containerizado com FastAPI | Python, FastAPI, Docker |
+| 📦 **[fastapi-order-management](https://github.com/yagojardimm/fastapi-order-management)** | API avançada de gerenciamento de pedidos focada em arquitetura assíncrona orientada a eventos. | `Python`, `FastAPI`, `MongoDB`, `Kafka` |
+| 🗄️ **[node-express-dual-db-api](https://github.com/yagojardimm/node-express-dual-db-api)** | API RESTful com autenticação JWT e integração simultânea com bancos relacionais e não-relacionais. | `Node.js`, `Express`, `PostgreSQL`, `MongoDB` |
+| ⚡ **[Redis-API-e-Worker](https://github.com/yagojardimm/Redis-API-e-Worker)** | Aplicação construída para processamento assíncrono em background utilizando workers em memória. | `Python`, `Redis`, `Docker` |
+| 🧪 **[produtos-api-pytest-docker](https://github.com/yagojardimm/produtos-api-pytest-docker)** | API robusta e conteinerizada, desenvolvida com forte ênfase em QA e testes de integração automatizados. | `Python`, `FastAPI`, `Pytest`, `Docker` |
+| 🐳 **[fastapi-crud-docker](https://github.com/yagojardimm/fastapi-crud-docker)** | CRUD conteinerizado focado em construção isolada de APIs de alta performance. | `Python`, `FastAPI`, `Docker` |
+| 🚗 **[car-catalog-mysql-fullstack](https://github.com/yagojardimm/car-catalog-mysql-fullstack)** | Aplicação construída com base em infraestrutura orquestrada via Docker Compose com múltiplos bancos. | `JavaScript`, `MySQL`, `MongoDB`, `Docker` |
 
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagojardimm&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojardimm&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</div>
+
+---
+
+### 📬 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yago-jardim-2188663a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
