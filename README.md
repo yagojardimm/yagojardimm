@@ -62,8 +62,8 @@ Com foco na construção de sistemas robustos, tenho experiência prática em pr
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagojardimm&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojardimm&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagojardimm&theme=dracula" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagojardimm&theme=dracula" alt="Linguagens mais usadas" height="150" />
 </div>
 
 ---
